@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "37314274951",
+    "project_id": "pizza-shop-83cb3",
+    "storage_bucket": "pizza-shop-83cb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37314274951:android:2623168dc03368fb98fa22",
+        "android_client_info": {
+          "package_name": "com.shafaatullah.pizzashop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37314274951-rbtc9ve78qb1nqodt5juo5d4dac16vr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shafaatullah.pizzashop",
+            "certificate_hash": "256292a0b6bc7e07b8e5cd9c73e2d94dde38129f"
+          }
+        },
+        {
+          "client_id": "37314274951-kejukpeqp8r5sm5cve05vnndgjo6sakh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpTrmAUJH9U4OrUYAk9vkdCJk1m7tpXfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37314274951-kejukpeqp8r5sm5cve05vnndgjo6sakh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37314274951-h0dokt746cpqu72uuagasefh079ednge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shafaatullah.pizzashop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

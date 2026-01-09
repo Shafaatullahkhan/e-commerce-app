@@ -1,0 +1,2 @@
+String Publishablekey = "pk_test_51R50G7QTvds3mmtKkV41XJyzfIByCK8OllI7ybn7XK4tfnkpPLEXvA6xkaGI8qeze5mUkMoIV86x3wQ4BzDlx8wC00CgDnZjcb";
+String Secretkey = "YOUR_STRIPE_SECRET_KEY";
